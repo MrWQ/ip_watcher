@@ -1,0 +1,14 @@
+- common_ports:
+  - 80
+  - 443
+  - 445
+  ip_file: ip.txt
+  log_file: log.txt
+  mail_file: mail.txt
+  mail_passwd: "hflii"
+  mail_user: "w_6@qq.com"
+  max_port:
+  min_port:
+  send_msg: "ip监控提醒,检测到端口不通：\n"
+  send_name: "ip监控提醒"
+  send_subject: "ip监控提醒,端口不通"
