@@ -5,4 +5,4 @@
 2. ip_watcher.yaml中的common_ports为单个端口添加，max_port和min_port为批量端口添加（例：common_ports为80，min_port为443，max_port为445。则监控80、443、444、445端口）
 3. ip.txt中添加需要监控的ip，每行一个。
 # result
-![](img\1.jpg)
+![](img/1.jpg)
